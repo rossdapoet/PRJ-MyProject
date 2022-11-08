@@ -42,11 +42,10 @@
                     <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="assets/img/home.jpg" alt="..." />
                     <div class="intro-text left-0 text-center bg-faded p-5 rounded">
                         <h2 class="section-heading mb-4">
-                            <span class="section-heading-upper">Study the past if you would </span>
-                            <span class="section-heading-lower">define the future.</span>
+                            <span class="section-heading-upper"> FPT University is good </span>
+                            <span class="section-heading-lower">Wellcome chicken.</span>
                         </h2>
-                        <p class="mb-3">Success is winning myself. Walking on our own feet is an honor. Live as if you were to die tomorrow, learn as if you were to live forever!</p>
-                        <div class="intro-button mx-auto"><a class="btn btn-primary btn-xl">Try Hard!</a></div>
+                        <p class="mb-3">Bring to you good memories when learning !</p>
                     </div>
                 </div>
             </div>
@@ -57,10 +56,10 @@
                     <div class="col-xl-9 mx-auto">
                         <div class="cta-inner bg-faded text-center rounded">
                             <h2 class="section-heading mb-4">
-                                <span class="section-heading-upper">adaptability</span>
-                                <span class="section-heading-lower">To You</span>
+                                <span class="section-heading-upper">XXXX</span>
+                                <span class="section-heading-lower">Yes You</span>
                             </h2>
-                            <p class="mb-0">Every effort will be rewarded, always be yourself, try in all circumstances, correct yourself. Do another to do well. If our stagnation continues, it's like putting ourselves on a dead end!</p>
+                            <p class="mb-0">When you try so hard, you still fuch up!</p>
                         </div>
                     </div>
                 </div>
