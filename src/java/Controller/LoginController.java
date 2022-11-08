@@ -47,9 +47,9 @@ public class LoginController extends HttpServlet {
             request.getSession().setAttribute("account", acc);
         }
         if (acc.getRole() == 0) {
-            response.sendRedirect("/MyAssignment/Home");
+            response.sendRedirect("/MyProject/Home");
         } else {
-            response.sendRedirect("/MyAssignment/HomeTeacher");
+            response.sendRedirect("/MyProject/HomeTeacher");
         }
     }
 
